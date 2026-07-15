@@ -7,7 +7,6 @@ This GitHub is where I keep everything I build while learning:
 - personal projects
 - experiments with new technologies
 
----
 
 ## Coursework
 
@@ -19,14 +18,12 @@ This GitHub is where I keep everything I build while learning:
 - **[Data Analysis Frameworks](https://github.com/nikitapantyukhin/python-data-analysis-frameworks-y1-s2)** — coursework on data analysis and processing with Python.
 - **[Industrial Development Tools](https://github.com/nikitapantyukhin/industrial-development-tools-y1-s2)** — Git, Docker, Linux, and modern development tools.
 
----
 
 ## Projects
 
 - **[BikeRoutesMap](https://github.com/nikitapantyukhin/BikeRoutesMap)** — interactive web application for exploring routes.
 - **[QrOverlayPrinter](https://github.com/nikitapantyukhin/QrOverlayPrinter)** — application for generating printable QR code overlays.
 
----
 
 > *"The best investment you can make is in yourself."*  
 > **— Warren Buffett**
